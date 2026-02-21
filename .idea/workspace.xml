@@ -1,15 +1,54 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="f42afbf8-317e-4629-8653-07bc62597585" name="Changes" comment="" />
+    <list default="true" id="f42afbf8-317e-4629-8653-07bc62597585" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/Practicum8.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задание10.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задание11.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задание12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задание13.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задание14.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задание15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задание16.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задание17.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задание18.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задание19.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задание2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задание20.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задание3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задание4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задание5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задание6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задание7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задание8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Задание9.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/задание 1.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="39k0PYhDDP0jcf0SuSIT7VFosVt" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -18,7 +57,27 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true"
+    "Python.Задание10.executor": "Run",
+    "Python.Задание11.executor": "Run",
+    "Python.Задание12.executor": "Run",
+    "Python.Задание13.executor": "Run",
+    "Python.Задание14.executor": "Run",
+    "Python.Задание15.executor": "Run",
+    "Python.Задание16.executor": "Run",
+    "Python.Задание17.executor": "Run",
+    "Python.Задание18.executor": "Run",
+    "Python.Задание2.executor": "Run",
+    "Python.Задание3.executor": "Run",
+    "Python.Задание4.executor": "Run",
+    "Python.Задание5.executor": "Run",
+    "Python.Задание6.executor": "Run",
+    "Python.Задание7.executor": "Run",
+    "Python.Задание8.executor": "Run",
+    "Python.Задание9.executor": "Run",
+    "Python.задание 1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
 }]]></component>
   <component name="SharedIndexes">
